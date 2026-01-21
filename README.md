@@ -120,10 +120,7 @@ If you use or reference this work, please cite as:
 
 ## Author
 
-Prepared using Python, Google Earth Engine, and Plotly
+Prepared by me using Python, Google Earth Engine, and Plotly
 Year: 2026
 
 
-
-* Write a **short project description** for the GitHub repo header
-* Help you prepare a **paper / policy brief** from this wo
