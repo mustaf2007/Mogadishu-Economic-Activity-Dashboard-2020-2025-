@@ -1,9 +1,9 @@
-# Mogadishu-Economic-Activity-Dashboard-2020-2025-
+# Satellite-based assessment of economic activity in Mogadishu (2020–2025) using night-time lights.*-
 This repository contains a fully self-contained interactive HTML dashboard that analyzes spatial and temporal patterns of economic activity in Mogadishu using satellite-derived night-time lights as a proxy.
 
 ---
 
-# Mogadishu Economic Activity Dashboard (2020–2025)
+*Satellite-based assessment of economic activity in Mogadishu (2020–2025) using night-time lights.*
 
 ## Overview
 
