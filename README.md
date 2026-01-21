@@ -110,11 +110,7 @@ It does **not** replace official economic statistics and should be interpreted a
 
 ---
 
-## Citation
 
-If you use or reference this work, please cite as:
-
-> *Satellite-based assessment of economic activity in Mogadishu (2020–2025) using night-time lights.*
 
 ---
 
