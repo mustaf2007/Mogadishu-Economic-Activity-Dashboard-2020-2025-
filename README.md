@@ -1,7 +1,5 @@
 # Mogadishu-Economic-Activity-Dashboard-2020-2025-
 This repository contains a fully self-contained interactive HTML dashboard that analyzes spatial and temporal patterns of economic activity in Mogadishu using satellite-derived night-time lights as a proxy.
-Below is a **clean, professional `README.md`** you can copy directly into GitHub.
-It is written in a **research / UN / World Bank–style tone**, clear and credible.
 
 ---
 
